@@ -1,3 +1,8 @@
+> Fabrizio's Notes
+VirtualBox on Mac:
+https://github.com/jonanh/osx-vm-templates/tree/create_prepare_vdi_based_on_autodmg#alternative-method-using-prepare_vdish-prepare_ovfsh-and-packer-virtualbox-ovf
+
+
 # OS X templates for Packer and VeeWee
 
 This is a set of Packer templates and support scripts that will prepare an OS X installer media that performs an unattended install for use with [Packer](http://packer.io) and [VeeWee](http://github.com/jedi4ever/veewee). These were originally developed for VeeWee, but support for the VeeWee template has not been maintained since Packer's release and so it is only provided for historical purposes. I plan on removing VeeWee support from this repo soon, but VeeWee can still make use of the preparation script and the [OS X template](https://github.com/jedi4ever/veewee/tree/master/templates/OSX) remains in the core VeeWee repo.
